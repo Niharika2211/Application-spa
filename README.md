@@ -1,4 +1,4 @@
-# 3-tier-curd-app
+# 3-tier-crud-app
 
 
 ```bash
